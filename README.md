@@ -16,19 +16,6 @@ This repository contains the computational fluid dynamics (CFD) investigation of
 
 ---
 
-## Deliverables & Repository Structure
-
-The primary deliverable in this repository is the complete, publication-ready project report:
-
-```text
-├── Project-Report.pdf     # Full 15-page academic CFD engineering report
-├── README.md              # Project summary and documentation
-├── .gitignore             # Configured ignore rules
-└── .source_backup/        # Archived LaTeX source (report.tex), figures, and assets
-```
-
----
-
 ## Scientific Background & Clinical Significance
 Carotid artery stenosis is caused by the progressive buildup of lipid-rich plaques beneath the endothelial lining of the carotid artery. Luminal narrowing induces:
 1. **Convective Acceleration:** High velocities at the stenosis throat causing elevated wall shear stress (WSS), triggering platelet activation and endothelial denudation.
